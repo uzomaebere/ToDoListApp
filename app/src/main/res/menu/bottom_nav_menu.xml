@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+            android:id="@+id/navigation_task"
+            android:icon="@drawable/outline_event_available_24"
+            android:title="@string/title_task"/>
+
+    <item
+            android:id="@+id/navigation_calendar"
+            android:icon="@drawable/outline_calendar_today_black_18dp"
+            android:title="@string/title_calendar"/>
+
+    <item
+            android:id="@+id/navigation_settings"
+            android:icon="@drawable/outline_more_horiz_24"
+            android:title="@string/title_settings"/>
+
+</menu>
